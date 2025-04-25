@@ -8,3 +8,5 @@ https://drive.google.com/drive/folders/11zASVgPSqkznHrpnQTTOBuhePLuFvsZZ?usp=dri
 Headstage preamplifier's PCB and Schematic files:
 
 https://github.com/khashayaresm/preamp.git
+
+The putty1.log file is a recording session from the BlackRock Digital Neural Signal Simulator from by this recording device and the aforementioned preamplifier.
